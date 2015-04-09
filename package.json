@@ -15,13 +15,13 @@
     "main": "geotargeting.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/kaban4ik1994/worldweatheronline-node-module.git"
+        "url": "https://github.com/kaban4ik1994/google-geotargeting-node-module.git"
     },
     "bugs": {
-        "url": "https://github.com/kaban4ik1994/worldweatheronline-node-module/issues"
+        "url": "https://github.com/kaban4ik1994/google-geotargeting-node-module/issues"
     },
     "dependencies": {
         "request": "^2.54.0"
     },
-    "homepage": "https://github.com/kaban4ik1994/worldweatheronline-node-module"
+    "homepage": "https://github.com/kaban4ik1994/google-geotargeting-node-module"
 }
