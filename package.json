@@ -1,0 +1,27 @@
+{
+    "name": "google-geotargeting-node-module",
+    "version": "0.0.1",
+    "description": "Module to get country name and city name by coordinates.",
+    "author": "Kiselyov Andrew",
+    "contributors": [
+        "Kiselyov Andrew",
+        "Miskevich Alexander"
+    ],
+    "keywords": [
+        "geotargeting",
+        "get country name",
+        "get city name"
+    ],
+    "main": "geotargeting.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kaban4ik1994/worldweatheronline-node-module.git"
+    },
+    "bugs": {
+        "url": "https://github.com/kaban4ik1994/worldweatheronline-node-module/issues"
+    },
+    "dependencies": {
+        "request": "^2.54.0"
+    },
+    "homepage": "https://github.com/kaban4ik1994/worldweatheronline-node-module"
+}
