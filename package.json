@@ -1,6 +1,6 @@
 {
     "name": "google-geotargeting-node-module",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Module to get country name and city name by coordinates.",
     "author": "Kiselyov Andrew",
     "contributors": [
