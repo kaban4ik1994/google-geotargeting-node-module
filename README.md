@@ -8,8 +8,8 @@ This module gets next input data: options, which consists a latlang and callback
 Further there is a request to the api and the output goes object geotargeting.
 #Example
 `var weather = require('worldweatheronline-node-module');`
-weather({
-        key: config.get('weather-key'),
+`weather({`
+        `key: config.get('weather-key'),
         q: req.query.latitude + ',' + req.query.longitude,
         date: req.query.date,
         num_of_days: req.query.numOfDays,
