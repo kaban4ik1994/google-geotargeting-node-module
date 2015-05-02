@@ -7,6 +7,7 @@
 #Example
 This module gets next input data: options, which consists a latlang and callback-function. 
 Further there is a request to the api and the output goes object geotargeting.
+
     var weather = require('worldweatheronline-node-module');  
     weather({  
             key: config.get('weather-key'),  
